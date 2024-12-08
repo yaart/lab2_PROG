@@ -3,7 +3,7 @@ package info.Pokemons;
 import info.Moves.PhysicalMoves.Bulldoze;
 import ru.ifmo.se.pokemon.*;
 
-public class Glalie extends Snorunt {
+public final class Glalie extends Snorunt {
     public Glalie(String name, int level) {
         super(name, level);
 

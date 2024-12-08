@@ -7,7 +7,7 @@ import info.Moves.StatusMoves.Swagger;
 import info.Moves.StatusMoves.WillOWisp;
 import ru.ifmo.se.pokemon.*;
 
-public class Bruxish extends Pokemon {
+public final class Bruxish extends Pokemon {
     public Bruxish(String name, int level) {
         super(name, level);
         setStats(68, 105, 70, 70, 70, 92);
