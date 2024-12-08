@@ -13,7 +13,6 @@ public class Main {
         Pokemon Charjabug = new Charjabug("Charjabug", 1);
         Pokemon Vikavolt = new Vikavolt("Vikavolt", 1);
 
-
         battle.addAlly(Bruxish);
         battle.addAlly(Glalie);
         battle.addAlly(Grubbin);
